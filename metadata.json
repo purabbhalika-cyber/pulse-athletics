@@ -1,0 +1,8 @@
+{
+  "name": "Pulse Athletics",
+  "description": "Elite urban strength conditioning, high-performance training programs, class schedules, and trial session booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
